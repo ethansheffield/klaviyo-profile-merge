@@ -15,7 +15,7 @@ HEADERS = {
 }
 
 # File paths
-base_folder = '/Users/ethan-work/Desktop/duplicate profiles MH and Klaviyo/'
+base_folder = '/test_subset.csv'
 csv_file_path = os.path.join(base_folder, 'test_subset.csv')
 failure_log_path = os.path.join(base_folder, 'merge_failures.csv')
 
