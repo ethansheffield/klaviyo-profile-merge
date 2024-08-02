@@ -109,3 +109,9 @@ johndoe@example.com,Johnny,Doe,03HCEQ4YDSPMK9N9C6QS
 
 Contributions are welcome! If you have suggestions for improvements or find any bugs, please feel free to create an issue or submit a pull request.
 
+
+## Supporting Documentation
+
+https://developers.klaviyo.com/en/reference/merge_profiles
+
+https://developers.klaviyo.com/en/docs/rate_limits_and_error_handling
